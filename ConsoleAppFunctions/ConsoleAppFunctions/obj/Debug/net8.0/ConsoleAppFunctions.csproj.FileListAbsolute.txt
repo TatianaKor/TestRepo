@@ -1,0 +1,14 @@
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\net8.0\ConsoleAppFunctions.exe
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\net8.0\ConsoleAppFunctions.deps.json
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\net8.0\ConsoleAppFunctions.runtimeconfig.json
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\net8.0\ConsoleAppFunctions.dll
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\net8.0\ConsoleAppFunctions.pdb
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\ConsoleAppFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\ConsoleAppFunctions.AssemblyInfoInputs.cache
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\ConsoleAppFunctions.AssemblyInfo.cs
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\ConsoleAppFunctions.csproj.CoreCompileInputs.cache
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\ConsoleAppFunctions.dll
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\refint\ConsoleAppFunctions.dll
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\ConsoleAppFunctions.pdb
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\ConsoleAppFunctions.genruntimeconfig.cache
+C:\Users\korbu\source\repos\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\net8.0\ref\ConsoleAppFunctions.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\korbu\\source\\repos\\ConsoleAppFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E4410-5EF5-4538-96BD-F52235BC4CBE}|ConsoleAppFunctions\\ConsoleAppFunctions.csproj|c:\\users\\korbu\\source\\repos\\consoleappfunctions\\consoleappfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E4410-5EF5-4538-96BD-F52235BC4CBE}|ConsoleAppFunctions\\ConsoleAppFunctions.csproj|solutionrelative:consoleappfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\korbu\\source\\repos\\ConsoleAppFunctions\\ConsoleAppFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\korbu\\source\\repos\\ConsoleAppFunctions\\ConsoleAppFunctions\\Program.cs",
+              "RelativeToolTip": "ConsoleAppFunctions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:07:09.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
